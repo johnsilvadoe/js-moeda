@@ -1,1 +1,3 @@
-
+export default {
+    moeda: 'BRL'
+}
